@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lively-ace-420406",
+  "private_key_id": "82f15f95b705e5ba79480386614f983ce6e07e64",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCvIFku30Ctw0rd\nCInLfFT88HvZNT21+ZTGfghnJ4kLeh4mLfrcS4JT0Hs/eMjhqwZApKwQBmlBOpFu\ngx8ied8dcw0twFBY9sjZRJTJ76eaYniL5t82Lxeo2ETKJFrgaIU6uSQfo9z1G4z8\nK7ednVZ1bPzT4bVyQiWzlQ0ofhvT1UAXbVC+0njdJQILgkWenLZHWZvGPkYF4uM8\nBGrXKrvhXlLgBmw7vyKpyth5S2S/aiCDda0upw3lNXqqzhA8UgZJW2vi7fPdMoTd\npWsR2Ouxosoddb7mIfA8lD/4Sj9d/DbmWDIz6LjyqmBIgHVAEx9W+snLzo6jUVv8\nwueNK9wDAgMBAAECggEAUKQSrRS8kccV2AYwfXT5JagPP4vWqM8OhQBQGkAISTKo\nY2hU1dAnaTTdK/MQfWnlbSrm2FI7cX/oq/zQ/20jIkpyTRj7ZpvtDK8Z3IrwoJSr\ncbCUJD03JdbAhlyLRD6c6teKHM+11WAkYZI38Oocf+H54g9TIBP5jGIcNwMrCTWs\nO7Pz9ORXivK6fwz9QzGyhxACFBNJVovb4GtLqQ7s+AzligMq39kGNbOh2N2ijknz\nM6MbLGcSYnUe+ngW0N8tuB/XUQqINWzdPnREfTbMvNJI7B6JBkqAi/EUGdgoMa4n\ne06kVMCPrkDdNo2w3eXQsgbaRd9EqGC5Xdmwhj8oEQKBgQDa6VhC0DHPYHALvh4/\nIfSa2uOyXdvYlbCNWFgStl5m91r6zHp3PImI704UHQHp+ph3UDq/Km4FJW8dyu3K\nZMzfjdVCRC9qABv87X4j38xymbifetv/gJVwLeCmcPfzOai+zN2lmkmt4HZh2HbA\nRNzhiCOd5G5czCdS+zPWMeSOPwKBgQDMy/MGBNELn+AGy43lD/bdnC5w9yRNj4F2\nGv1J0qF+CAtFSYsil8kV4Sd7ls6iNyYJhQVLGJ0k1PPe0hLawuO2+75+lA6XKlM6\nzKoprda1SsDOPCFqQRfIs7uogHKzwTDU6HrXOME535bB7MOoxO6OF6mU0L871iJv\nw6htxVpJPQKBgQCoKM2i7VkF6xfG/XEwn/3NIs38SztBAaPQwAdPwIV95Q8fTwnY\nJEmmReWdb7bzrIuIQ7oM9SP0kg/sO+E0MwBpzgL+12/wpkrZnPnjxtu/QLRg1bi/\naV/h/2vtjyP409b7UlYFCyMEDUQC34xBH+To3nI1rK7WXADtLohgRo1CcwKBgBoS\n/WYOxu7L9CHpWK+JUMz2TZNkY+LcGoeG+CimAJmjPIwdyPEmkhuPBw/dK4HLs7QS\nk5H0GE3QLxx3cp8XoRZzBtXm09S7Ns2NsTyNPYDne5TGYxq8HuMWvxW9BN2OA0GY\nN8ufFjrgFLmsA11BdX3x1U11JmPf55KDPrZ7IfuhAoGBAJU6tQ0AzwsSLt5ZF1is\nNbl76UMkH3Pg62j4e0ev1zPPsTgNJSv6/MRSYeNWMcP5yZHk56RMCBICVxLBZ80T\nON2U1dBsJIbH2IhMKth5mrDbDkU3gUaesKDEHdCVuzoGbQhluzQBn8iXvxM8kWmN\nv3wsLW2C+JZgDeyPc2EZn3/3\n-----END PRIVATE KEY-----\n",
+  "client_email": "ocr-app@lively-ace-420406.iam.gserviceaccount.com",
+  "client_id": "104434621359586208396",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ocr-app%40lively-ace-420406.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
